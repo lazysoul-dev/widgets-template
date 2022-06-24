@@ -17,6 +17,10 @@ For styling used `Tailwind` and `Postcss`.
 
 For bundling used `Webpack`.
 
+Provide paths to templates in `tailwind.config.js`
+
+Configure `dist` folder in `webpack.config.js`
+
 ### Typescript
 
 This project using `Typescript`.
