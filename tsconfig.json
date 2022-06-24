@@ -1,0 +1,13 @@
+{
+  "include": [
+    "src/scripts/**/*",
+    "src/scripts/**/*.vue",
+    "**/*.d.ts"
+  ],
+  "compilerOptions": {
+    "target": "es5",
+    "strict": true,
+    "module": "es2015",
+    "moduleResolution": "node"
+  }
+}

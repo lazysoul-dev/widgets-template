@@ -1,0 +1,9 @@
+$header_size: 80px;
+
+.header {
+  background: #000;
+
+  &__inner {
+    height: $header_size;
+  }
+}
